@@ -1,0 +1,32 @@
+[
+  {
+    "id": "M1",
+    "role": "PROPOSER",
+    "responseDelay": 0,
+    "port": 12345
+  },
+  {
+    "id": "M2",
+    "role": "PROPOSER",
+    "responseDelay": 0,
+    "port": 12346
+  },
+  {
+    "id": "M3",
+    "role": "ACCEPTOR",
+    "responseDelay": 0,
+    "port": 12347
+  },
+  {
+    "id": "M4",
+    "role": "ACCEPTOR",
+    "responseDelay": 0,
+    "port": 12348
+  },{
+  "id": "M5",
+  "role": "ACCEPTOR",
+  "responseDelay": 0,
+  "port": 12349
+}
+]
+
